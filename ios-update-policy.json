@@ -1,7 +1,13 @@
 {
   "schema": 1,
   "bundleID": "com.ishiguromasanari.manatee",
-  "revision": 1,
-  "appStore": { "version": "1.0.0", "build": 1 },
-  "testFlight": { "version": "1.0.0", "build": 1 }
+  "revision": 2,
+  "appStore": {
+    "version": "1.0.0",
+    "build": 1
+  },
+  "testFlight": {
+    "version": "1.0.1",
+    "build": 15
+  }
 }
