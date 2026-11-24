@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "packageName": "com.ishiguromasanari.manatee",
-  "revision": 3,
+  "revision": 4,
   "minimum": {
-    "versionName": "1.0.5",
-    "versionCode": 25
+    "versionName": "1.0.6",
+    "versionCode": 26
   }
 }
